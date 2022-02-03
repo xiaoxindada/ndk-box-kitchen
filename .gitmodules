@@ -1,0 +1,9 @@
+[submodule "jni/selinux"]
+	path = jni/selinux
+	url = https://github.com/topjohnwu/selinux
+[submodule "busybox"]
+	path = busybox
+	url = https://github.com/topjohnwu/ndk-busybox
+[submodule "jni/pcre"]
+	path = jni/pcre
+	url = https://android.googlesource.com/platform/external/pcre
